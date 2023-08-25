@@ -128,7 +128,7 @@
     "typescript": "^4.1.3"
   },
   "peerDependencies": {
-    "jsdom": "*",
+    "jsdom": "*"
   },
   "peerDependenciesMeta": {
     "jsdom": {
